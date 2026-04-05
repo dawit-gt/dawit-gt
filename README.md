@@ -42,14 +42,10 @@ Check out my complete **personal portfolio website** — it showcases my project
 
 *(Built with HTML, CSS & JavaScript)*
 
-### 📊 GitHub Stats
 
-![Dawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawit-gt&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawit-gt&layout=compact&theme=radical&hide_border=true)
 
 ### 📫 Let's Connect
-- 📧 dawitd111@gmail.com *(replace with your real email)*
+- 📧 dawitd111@gmail.com 
 - 🌍 [My Portfolio](https://dawit-gt.github.io/dawit-portfolio/)
 
 ---
